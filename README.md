@@ -17,7 +17,7 @@ Aula HTML 19/10/2019
    <h1> Oi mundo </h1>
    <b> Naruto </b>
    <i> Sasuke </i>
-   <font color="#808080">Carregador do eliserve e um lixo</font>
+   <font color="#99acbb">Carregador do eliserve e um lixo</font>
    
     
    </body>
