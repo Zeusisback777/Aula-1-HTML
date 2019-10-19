@@ -2,11 +2,8 @@
 Aula HTML 19/10/2019
 
 # Code
+</body>
 
-<!doctype html>
-<html lang="pt-br">
-<head>
-<title> Anti pokemongos FCV </title>
   <p> Hello Word </p>
 <table> //tabela
 		<tr> //linha
