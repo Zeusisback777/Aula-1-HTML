@@ -19,6 +19,8 @@ Aula HTML 19/10/2019
    <i> Sasuke </i>
    <font color="#808080">Carregador do eliserve e um lixo</font>
    
+   <a href="http://www.google.com"> google</a>
+   
     
    </body>
 </html>
